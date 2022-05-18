@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @remchaf
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Front End Development Libraries
-- 💞️ I’m looking to collaborate on everything about Coding
+- 👀 I’m interested in everything related with IT
+- 🌱 I’m currently learning Back End Development
+- 💞️ I’m looking to collaborate on everything about Web Development
 - 📫 How to reach me alfredmichel10@live.fr
 
 <!---
